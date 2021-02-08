@@ -1,5 +1,5 @@
 ## Courses
 
-COL774 
-ELL409
-ELL888
+1. COL774 
+1. ELL409
+1. ELL888
