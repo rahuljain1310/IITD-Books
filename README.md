@@ -1,2 +1,2 @@
 # Books
-A repository of reference books required in the IIT Delhi Curriculum
+A repository of reference books required in the Academics
